@@ -17,14 +17,11 @@
 .band__iframe.show  {
     display: block;
     visibility: visible;
+    width: 500px;
     position: fixed;
     top: 50%;
     left: 50%;
     transform: translateY(-50%);
-}
-
-iframe {
-    width: 500px;
 }
 
 .band__name {
